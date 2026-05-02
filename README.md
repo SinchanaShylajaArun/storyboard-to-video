@@ -1,4 +1,4 @@
-# storyboard-to-video
+
 # Storyboard-to-Video Pipeline
 
 An end-to-end pipeline that turns structured scene descriptions into a stitched short film using pre-trained video diffusion models — built on free-tier T4 GPU hardware.
